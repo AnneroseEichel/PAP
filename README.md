@@ -39,3 +39,6 @@ To construct this dataset, the creator Annerose Eichel used text data from the E
 For more details on Wikipedia Licensing, we refer to [Wikipedia's Information on Copyrights](https://en.wikipedia.org/wiki/Wikipedia:Copyrights).
 
 Accordingly, the PAP Dataset © 2023 by Annerose Eichel is licensed under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) License.
+
+## Citation
+tbd
