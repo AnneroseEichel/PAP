@@ -2,11 +2,11 @@
 
 This folder contains the dataset presented in the paper "A Dataset for Physical and Abstract Plausibility and Sources of Human Disagreement" at LAW-XVII 2023 at ACL 2023. 
 
-#### Raw Annotation and Aggregated Silver Labels
-We present two dataset versions with ```dataset.tsv```: including label aggregations based on annotation post-processing as described in §4.2.
+We present two dataset versions with ```dataset.tsv``` including label aggregations based on annotation post-processing as described in §4.2.
 Specifically, we provide (a) strict majority voting including a disagreement label ('unsure') for both multi-class and binary setups for 1,733 events.
 Probabilistic aggregations using MACE (Hovy et al., 2013) include aggregated silver labels based on raw annotations without post-processing, i.e., labels for 2,160 events.
 
+#### Raw Annotation and Aggregated Silver Labels
 The file ```dataset.tsv```: contains the following information:
 - event: the event target as presented to human annotators
 - original_label: the original label based on dataset construction as described in §3 in the paper; events can either be ('plausible') or implausible ('implausible')
