@@ -1,4 +1,4 @@
-# A Dataset for Physical and Abstract Plausibility and Sources of Human Disagreement (PAP)
+# PAP: A Dataset for Physical and Abstract Plausibility and Sources of Human Disagreement
 
 This folder contains the dataset presented in the paper "A Dataset for Physical and Abstract Plausibility and Sources of Human Disagreement" at LAW-XVII 2023 at ACL 2023. 
 
