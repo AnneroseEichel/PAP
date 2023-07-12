@@ -32,7 +32,10 @@ Distributions are provided per label with each row referring to distributions fo
 Events are provided in the corresponding order in aggregated_predictions.csv.
 An example is shown below with each column containing a predicted label and the corresponding distribution separated with a whitespace.
 
-5.0 0.935000961509369	2.0 0.023182269455259166	4.0 0.02100019482697004	1.0 0.020816574208401856
+5.0 0.935000961509369	2.0 0.023182269455259166	4.0 0.02100019482697004	1.0 0.02081657420840185
+
+## Amendment
+We conduct a small case study on a PAP sample to compare original Amazon Mechanical Turk (AMT) annotations with non-AMT annotations. We collect off-AMT annotations for a small subset (~100 instances) focusing on originally pseudo-implausible events which are rated plausible by AMT annotators. In the amendment, we outline the task setup and annotation process, present differences and commonalities between both annotation settings and results and discuss our findings on both annotation and meta-finding levels. We conclude that each of the annotation setups has (dis)advantages, which, however, do not strongly influence meta-level findings. Finally, we discuss aggregation recommendations.
 
 ## License 
 To construct this dataset, the creator Annerose Eichel used text data from the English Wikipedia. Wikipedia content is licensed under the [Attribution-ShareAlike 4.0 International](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) and, unless stated otherwise, the [GNU Free Documentation](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License) Licenses.
