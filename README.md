@@ -35,6 +35,8 @@ An example is shown below with each column containing a predicted label and the 
 5.0 0.935000961509369	2.0 0.023182269455259166	4.0 0.02100019482697004	1.0 0.02081657420840185
 
 ## Amendment
+```Amendment.pdf```:
+
 We conduct a small case study on a PAP sample to compare original Amazon Mechanical Turk (AMT) annotations with non-AMT annotations. We collect off-AMT annotations for a small subset (~100 instances) focusing on originally pseudo-implausible events which are rated plausible by AMT annotators. In the amendment, we outline the task setup and annotation process, present differences and commonalities between both annotation settings and results and discuss our findings on both annotation and meta-finding levels. We conclude that each of the annotation setups has (dis)advantages, which, however, do not strongly influence meta-level findings. Finally, we discuss aggregation recommendations.
 
 ## License 
